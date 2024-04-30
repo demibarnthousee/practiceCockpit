@@ -1,1 +1,1 @@
-# practiceCockpite
+# practiceCockpit
